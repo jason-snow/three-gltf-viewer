@@ -11,6 +11,7 @@ Viewer: [gltf-viewer.donmccurdy.com](https://gltf-viewer.donmccurdy.com/)
 
 ```
 npm install
+npm install vite 
 npm run dev
 ```
 
